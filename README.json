@@ -1,0 +1,737 @@
+{
+  "items": [
+    {
+      "description": "Official references of Cypress.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:34:43Z",
+            "owner": "cypress-io",
+            "repo": "cypress",
+            "stars": 50945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Release Notes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:34:43Z",
+            "owner": "cypress-io",
+            "repo": "cypress",
+            "stars": 50945
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sorry Cypress",
+          "description": "An open-source alternative to cypress dashboard - Andrew Goldis; Script for parallel Cypress specs execution locally - Shelex Oleksandr Shevtsov",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-14T00:43:07Z",
+            "owner": "sorry-cypress",
+            "repo": "sorry-cypress",
+            "stars": 2810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Wait Until",
+          "description": "Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by Cypress wait - Stefano Magni.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-10T12:05:59Z",
+            "owner": "NoriSte",
+            "repo": "cypress-wait-until",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Essencial Minmap",
+          "description": "An open-source mindmap with essentials tools - Samuel Lucas;",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-21T05:02:24Z",
+            "owner": "samlucax",
+            "repo": "cypress-essencial-mindmap",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Learning Checklist",
+          "description": "Accelerate your Cypress learning by prioritizing what to study first - Samuel Lucas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-11T22:43:19Z",
+            "owner": "samlucax",
+            "repo": "cypress-learning-checklist",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Commands",
+          "description": "A collection of Cypress commands to extend and complement the defaults;",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-08T23:46:00Z",
+            "owner": "Lakitna",
+            "repo": "cypress-commands",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Dark",
+          "description": "Dark and Halloween color themes for Cypress.io test runner - Gleb Bahmutov;",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-11T21:38:15Z",
+            "owner": "bahmutov",
+            "repo": "cypress-dark",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Fiddle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-02-27T07:52:13Z",
+            "owner": "cypress-io",
+            "repo": "cypress-fiddle",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Parallel Specs Locally",
+          "description": "About",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-05T20:58:00Z",
+            "owner": "Shelex",
+            "repo": "cypress-parallel-specs-locally",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Utils",
+          "description": "CLI tool to easily parallelize and stress-test your Cypress tests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-02T16:01:55Z",
+            "owner": "trentrand",
+            "repo": "cypress-utils",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Specut",
+          "description": "Cut massive test suites into equal chunks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-07T13:58:39Z",
+            "owner": "henryruhs",
+            "repo": "specut",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skipper",
+          "description": "Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T07:11:57Z",
+            "owner": "get-skipper",
+            "repo": "skipper",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Local Https",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-20T17:22:02Z",
+            "owner": "bahmutov",
+            "repo": "cypress-local-https",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cypress Social Logins",
+          "description": "Cypress authentication flows using social network providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-22T15:44:35Z",
+            "owner": "lirantal",
+            "repo": "cypress-social-logins",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Keycloak Commands",
+          "description": "Cypress commands for authenticate users with Keycloak Identity Provider.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-26T13:48:01Z",
+            "owner": "Fredx87",
+            "repo": "cypress-keycloak-commands",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress NTLM Auth",
+          "description": "NTLM authentication support for Cypress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T20:43:24Z",
+            "owner": "bjowes",
+            "repo": "cypress-ntlm-auth",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress OTP",
+          "description": "Valid OTP token generation for Cypress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-07T20:52:25Z",
+            "owner": "NoriSte",
+            "repo": "cypress-otp",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Authentication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cypress React unit test",
+          "description": "Test React components using Cypress Test Runner.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-12-11T21:18:02Z",
+            "owner": "cypress-io",
+            "repo": "cypress-react-unit-test",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Vue unit test",
+          "description": "Test Vue.js components using Cypress Test Runner.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-12-11T21:18:06Z",
+            "owner": "cypress-io",
+            "repo": "cypress-vue-unit-test",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Svelte unit test",
+          "description": "Test Svelte components using Cypress Test Runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-04T06:06:19Z",
+            "owner": "bahmutov",
+            "repo": "cypress-svelte-unit-test",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Angular Unit Test",
+          "description": "Test Angular component using Cypress Test Runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:17:51Z",
+            "owner": "bahmutov",
+            "repo": "cypress-angular-unit-test",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Hyperapp unit test",
+          "description": "Test Hyperapp components and applications using Cypress Test Runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-14T21:13:23Z",
+            "owner": "bahmutov",
+            "repo": "cypress-hyperapp-unit-test",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Angular Unit Test",
+          "description": "Unit test Angularjs code using Cypress Test Runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:03:57Z",
+            "owner": "bahmutov",
+            "repo": "cypress-angularjs-unit-test",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Cycle Unit Test",
+          "description": "Test Cycle.js components using Cypress Test Runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T22:15:01Z",
+            "owner": "bahmutov",
+            "repo": "cypress-cycle-unit-test",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Component Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cypress Image Snapshot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-10T19:04:58Z",
+            "owner": "jaredpalmer",
+            "repo": "cypress-image-snapshot",
+            "stars": 890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Visual Regression",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T23:19:42Z",
+            "owner": "cypress-visual-regression",
+            "repo": "cypress-visual-regression",
+            "stars": 662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Plugin Snapshots",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-12T20:45:43Z",
+            "owner": "meinaart",
+            "repo": "cypress-plugin-snapshots",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Image Diff",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-23T16:26:47Z",
+            "owner": "haim-io",
+            "repo": "cypress-image-diff",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Micoo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-05T22:08:22Z",
+            "owner": "Mikuu",
+            "repo": "Micoo",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Regression Tracker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-31T14:39:02Z",
+            "owner": "Visual-Regression-Tracker",
+            "repo": "agent-cypress",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Happo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-01-22T00:25:12Z",
+            "owner": "happo",
+            "repo": "happo-cypress",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Blink Test",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-30T17:02:07Z",
+            "owner": "PatrickWalker",
+            "repo": "cypress-visual-regression",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wopee",
+          "description": "Visual regression testing plugin for Cypress by Wopee.io. Autonomous test maintenance with AI-powered healing.",
+          "children": []
+        }
+      ],
+      "title": "Visual Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cypress terminal report",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-16T00:21:04Z",
+            "owner": "archfz",
+            "repo": "cypress-terminal-report",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress failed log",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-06T10:00:31Z",
+            "owner": "bahmutov",
+            "repo": "cypress-failed-log",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Mochawesome reporter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T10:58:43Z",
+            "owner": "LironEr",
+            "repo": "cypress-mochawesome-reporter",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Slack Reporter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-27T19:04:16Z",
+            "owner": "YOU54F",
+            "repo": "cypress-plugins",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Allure Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-17T19:50:18Z",
+            "owner": "Shelex",
+            "repo": "cypress-allure-plugin",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress testomatio reporter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T22:24:39Z",
+            "owner": "testomatio",
+            "repo": "reporter",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress log to output",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-08T09:06:49Z",
+            "owner": "flotwig",
+            "repo": "cypress-log-to-output",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mochawesome merge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T07:08:51Z",
+            "owner": "Antontelesh",
+            "repo": "mochawesome-merge",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress testrail reporter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-05T05:38:27Z",
+            "owner": "Vivify-Ideas",
+            "repo": "cypress-testrail-reporter",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Health Check",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-02T15:20:24Z",
+            "owner": "bdimitrovski",
+            "repo": "cypress-healthcheck",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress Msteams reporter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-27T13:19:55Z",
+            "owner": "maritome",
+            "repo": "cypress-msteams-reporter",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress teamcity reporter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-04T16:43:27Z",
+            "owner": "prma85",
+            "repo": "cypress-teamcity-reporter",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autoset status cypress testrail reporter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-09-27T08:53:20Z",
+            "owner": "dkuznetsov21",
+            "repo": "autoset-status-cypress-testrail-reporter",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Reporting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cypress recipes for common scenarios",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-16T14:20:05Z",
+            "owner": "cypress-io",
+            "repo": "cypress-example-recipes",
+            "stars": 3480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cypress for Everything 🤩: testing SEO, Http Redirects, Logins, Sitemaps and more!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-14T16:32:30Z",
+            "owner": "riccardogiorato",
+            "repo": "cypress-for-everything",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Examples"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:42:04.812Z",
+    "original_repository": "brunopulis/awesome-cypress",
+    "original_repository_sha": "298f5a9422d4458619055a4816e1720108b0a54e",
+    "enhanced_repository": "enhansome/enhansome-cypress",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cypress with stars"
+  }
+}
