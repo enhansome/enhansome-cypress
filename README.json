@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T18:24:51Z",
+            "last_commit": "2026-08-14T18:21:13Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50956
+            "stars": 50971
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T18:24:51Z",
+            "last_commit": "2026-08-14T18:21:13Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50956
+            "stars": 50971
           }
         }
       ],
@@ -269,7 +269,7 @@
             "last_commit": "2023-06-07T20:52:25Z",
             "owner": "NoriSte",
             "repo": "cypress-otp",
-            "stars": 49
+            "stars": 48
           }
         }
       ],
@@ -328,7 +328,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:17:51Z",
+            "last_commit": "2026-08-14T17:56:54Z",
             "owner": "bahmutov",
             "repo": "cypress-angular-unit-test",
             "stars": 160
@@ -584,7 +584,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T12:49:46Z",
+            "last_commit": "2026-08-14T09:12:10Z",
             "owner": "testomatio",
             "repo": "reporter",
             "stars": 151
@@ -705,7 +705,7 @@
             "last_commit": "2026-07-16T14:20:05Z",
             "owner": "cypress-io",
             "repo": "cypress-example-recipes",
-            "stars": 3480
+            "stars": 3479
           }
         },
         {
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:26:44.704Z",
+    "last_updated": "2026-08-14T18:24:04.750Z",
     "original_repository": "brunopulis/awesome-cypress",
     "original_repository_sha": "298f5a9422d4458619055a4816e1720108b0a54e",
     "enhanced_repository": "enhansome/enhansome-cypress",
