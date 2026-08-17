@@ -40,8 +40,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,975 | 🐛 1,063 | 🌐 TypeScript | 📅 2026-08-16
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,975 | 🐛 1,063 | 🌐 TypeScript | 📅 2026-08-16
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,978 | 🐛 1,064 | 🌐 TypeScript | 📅 2026-08-17
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,978 | 🐛 1,064 | 🌐 TypeScript | 📅 2026-08-17
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -118,12 +118,12 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 #### Reporting
 
-* [Cypress terminal report](https://github.com/archfz/cypress-terminal-report) ⭐ 536 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-16
+* [Cypress terminal report](https://github.com/archfz/cypress-terminal-report) ⭐ 537 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-16
 * [Cypress failed log](https://github.com/bahmutov/cypress-failed-log) ⭐ 198 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-06
-* [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 185 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-31
+* [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 186 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-31
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 169 | 🐛 18 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 151 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-15
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 151 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-15
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 147 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
 * [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
@@ -207,4 +207,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

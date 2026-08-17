@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T17:42:20Z",
+            "last_commit": "2026-08-17T17:54:17Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50975
+            "stars": 50978
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T17:42:20Z",
+            "last_commit": "2026-08-17T17:54:17Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50975
+            "stars": 50978
           }
         }
       ],
@@ -517,7 +517,7 @@
             "last_commit": "2026-07-16T00:21:04Z",
             "owner": "archfz",
             "repo": "cypress-terminal-report",
-            "stars": 536
+            "stars": 537
           }
         },
         {
@@ -545,7 +545,7 @@
             "last_commit": "2026-07-31T10:58:43Z",
             "owner": "LironEr",
             "repo": "cypress-mochawesome-reporter",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:45:00.948Z",
+    "last_updated": "2026-08-17T17:55:44.860Z",
     "original_repository": "brunopulis/awesome-cypress",
     "original_repository_sha": "298f5a9422d4458619055a4816e1720108b0a54e",
     "enhanced_repository": "enhansome/enhansome-cypress",
