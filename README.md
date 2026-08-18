@@ -40,8 +40,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,978 | 🐛 1,064 | 🌐 TypeScript | 📅 2026-08-17
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,978 | 🐛 1,064 | 🌐 TypeScript | 📅 2026-08-17
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,979 | 🐛 1,056 | 🌐 TypeScript | 📅 2026-08-18
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,979 | 🐛 1,056 | 🌐 TypeScript | 📅 2026-08-18
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -105,7 +105,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 #### Visual Testing
 
 * [Cypress Image Snapshot](https://github.com/palmerhq/cypress-image-snapshot) ⭐ 890 | 🐛 122 | 🌐 JavaScript | 📅 2024-04-10
-* [Cypress Visual Regression](https://github.com/mjhea0/cypress-visual-regression) ⭐ 662 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-10
+* [Cypress Visual Regression](https://github.com/mjhea0/cypress-visual-regression) ⭐ 662 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-17
 * [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots) ⭐ 493 | 🐛 118 | 🌐 JavaScript | 📅 2024-06-12
 * [Cypress Image Diff](https://github.com/uktrade/cypress-image-diff) ⭐ 272 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-23
 * [Micoo](https://github.com/Mikuu/Micoo/tree/master/clients/micoocypress) ⭐ 195 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-05
@@ -134,7 +134,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Containers
 
-* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,057 | 🐛 20 | 🌐 Dockerfile | 📅 2026-08-10 - Docker images with Cypress dependencies and browsers.
+* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,057 | 🐛 21 | 🌐 Dockerfile | 📅 2026-08-18 - Docker images with Cypress dependencies and browsers.
 
 ### Blogs
 
@@ -207,4 +207,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

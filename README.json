@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:54:17Z",
+            "last_commit": "2026-08-18T16:51:59Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50978
+            "stars": 50979
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:54:17Z",
+            "last_commit": "2026-08-18T16:51:59Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50978
+            "stars": 50979
           }
         }
       ],
@@ -404,7 +404,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T23:19:42Z",
+            "last_commit": "2026-08-17T21:57:19Z",
             "owner": "cypress-visual-regression",
             "repo": "cypress-visual-regression",
             "stars": 662
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:55:44.860Z",
+    "last_updated": "2026-08-18T17:54:35.087Z",
     "original_repository": "brunopulis/awesome-cypress",
     "original_repository_sha": "298f5a9422d4458619055a4816e1720108b0a54e",
     "enhanced_repository": "enhansome/enhansome-cypress",
