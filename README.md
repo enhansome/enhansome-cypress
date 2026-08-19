@@ -40,15 +40,15 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,981 | 🐛 1,052 | 🌐 TypeScript | 📅 2026-08-19
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,981 | 🐛 1,052 | 🌐 TypeScript | 📅 2026-08-19
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,978 | 🐛 1,054 | 🌐 TypeScript | 📅 2026-08-19
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,978 | 🐛 1,054 | 🌐 TypeScript | 📅 2026-08-19
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
 
 ### Tools
 
-* [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) ⭐ 2,810 | 🐛 52 | 🌐 TypeScript | 📅 2025-09-14 - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
+* [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) ⭐ 2,809 | 🐛 52 | 🌐 TypeScript | 📅 2025-09-14 - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
   Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 * [Cypress Wait Until](https://github.com/NoriSte/cypress-wait-until) ⭐ 698 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-10 - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
 * [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) ⭐ 280 | 🐛 1 | 📅 2023-04-21 - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
