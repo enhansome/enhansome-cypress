@@ -40,8 +40,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,978 | 🐛 1,061 | 🌐 TypeScript | 📅 2026-08-20
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,978 | 🐛 1,061 | 🌐 TypeScript | 📅 2026-08-20
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,977 | 🐛 1,063 | 🌐 TypeScript | 📅 2026-08-21
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,977 | 🐛 1,063 | 🌐 TypeScript | 📅 2026-08-21
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -107,7 +107,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Image Snapshot](https://github.com/palmerhq/cypress-image-snapshot) ⭐ 890 | 🐛 122 | 🌐 JavaScript | 📅 2024-04-10
 * [Cypress Visual Regression](https://github.com/mjhea0/cypress-visual-regression) ⭐ 662 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-17
 * [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots) ⭐ 493 | 🐛 118 | 🌐 JavaScript | 📅 2024-06-12
-* [Cypress Image Diff](https://github.com/uktrade/cypress-image-diff) ⭐ 272 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-23
+* [Cypress Image Diff](https://github.com/uktrade/cypress-image-diff) ⭐ 271 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-23
 * [Micoo](https://github.com/Mikuu/Micoo/tree/master/clients/micoocypress) ⭐ 195 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-05
 * [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/agent-cypress) ⭐ 75 | 🐛 5 | 🌐 TypeScript | 📅 2023-10-31
 * [Happo](https://github.com/happo/happo-cypress) ⚠️ Archived
@@ -123,7 +123,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 186 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-31
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 169 | 🐛 18 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 151 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-15
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 151 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-15
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 147 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
 * [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
@@ -207,4 +207,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
