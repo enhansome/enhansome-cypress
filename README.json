@@ -12,10 +12,10 @@
             "archived": false,
             "id": 31629751,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:04:10Z",
+            "last_commit": "2026-08-22T06:59:04Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50977
+            "stars": 50983
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 31629751,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:04:10Z",
+            "last_commit": "2026-08-22T06:59:04Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50977
+            "stars": 50983
           }
         }
       ],
@@ -774,7 +774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:56:19.865Z",
+    "last_updated": "2026-08-22T17:46:17.012Z",
     "original_repository": "brunopulis/awesome-cypress",
     "original_repository_id": 206841637,
     "original_repository_sha": "298f5a9422d4458619055a4816e1720108b0a54e",
