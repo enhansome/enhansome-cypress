@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T06:59:04Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50983
+            "stars": 50987
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T06:59:04Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50983
+            "stars": 50987
           }
         }
       ],
@@ -617,7 +617,7 @@
                 "archived": false,
                 "id": 241091114,
                 "language": "JavaScript",
-                "last_commit": "2026-08-15T19:24:15Z",
+                "last_commit": "2026-08-23T13:25:28Z",
                 "owner": "testomatio",
                 "repo": "reporter",
                 "stars": 151
@@ -774,10 +774,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:46:17.012Z",
+    "last_updated": "2026-08-23T17:46:12.437Z",
     "original_repository": "brunopulis/awesome-cypress",
     "original_repository_id": 206841637,
-    "original_repository_sha": "298f5a9422d4458619055a4816e1720108b0a54e",
+    "original_repository_sha": "80de69ca4265da118a6c3e057c5d999efc38d18d",
     "enhanced_repository": "enhansome/enhansome-cypress",
     "enhanced_repository_description": null,
     "title": "Awesome Cypress with stars"

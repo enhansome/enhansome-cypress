@@ -21,6 +21,7 @@
   * [Contents](#contents)
     * [Official](#official)
     * [Tools](#tools)
+    * [Complementary QA Tools](#complementary-qa-tools)
     * [Courses](#courses)
     * [Plugins](#plugins)
       * [Authentication](#authentication)
@@ -40,8 +41,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,983 | 🐛 1,059 | 🌐 TypeScript | 📅 2026-08-22
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,983 | 🐛 1,059 | 🌐 TypeScript | 📅 2026-08-22
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,987 | 🐛 1,060 | 🌐 TypeScript | 📅 2026-08-22
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,987 | 🐛 1,060 | 🌐 TypeScript | 📅 2026-08-22
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -64,6 +65,10 @@ Official references of Cypress.
 * [DeploySentinel](https://deploysentinel.com/) - `cypress open` for your CI. Eliminate flaky Cypress tests with DOM, network and console log captures from CI - [Mike Shi](https://github.com/MikeShi42)
 * [Moon](https://aerokube.com/moon/) - Platform for remote parallel Cypress tests execution working in Kubernetes cluster.
 * [Testward](https://testward.app) - GitHub App that flags which Cypress specs a pull request will break — at review time, even when the specs live in a separate repo.
+
+### Complementary QA Tools
+
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 951 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 
 ### Courses
 
@@ -123,7 +128,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 186 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-31
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 169 | 🐛 18 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 151 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-15
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 151 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-23
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 147 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
 * [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
@@ -207,4 +212,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
