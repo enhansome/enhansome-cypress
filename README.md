@@ -41,8 +41,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,996 | 🐛 1,061 | 🌐 TypeScript | 📅 2026-08-24
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,996 | 🐛 1,061 | 🌐 TypeScript | 📅 2026-08-24
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 50,997 | 🐛 1,065 | 🌐 TypeScript | 📅 2026-08-24
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 50,997 | 🐛 1,065 | 🌐 TypeScript | 📅 2026-08-24
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -139,7 +139,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Containers
 
-* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,058 | 🐛 20 | 🌐 Dockerfile | 📅 2026-08-18 - Docker images with Cypress dependencies and browsers.
+* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,058 | 🐛 22 | 🌐 Dockerfile | 📅 2026-08-24 - Docker images with Cypress dependencies and browsers.
 
 ### Blogs
 
