@@ -12,10 +12,10 @@
             "archived": false,
             "id": 31629751,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T06:59:04Z",
+            "last_commit": "2026-08-24T14:10:20Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50987
+            "stars": 50996
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 31629751,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T06:59:04Z",
+            "last_commit": "2026-08-24T14:10:20Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50987
+            "stars": 50996
           }
         }
       ],
@@ -408,6 +408,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Cypress Forms Commands",
+              "description": "Easier form filling and validation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 384246480,
+                "language": "TypeScript",
+                "last_commit": "2021-07-11T18:40:33Z",
+                "owner": "SamuelTrottier",
+                "repo": "cypress-forms-commands",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Forms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Cypress Image Snapshot",
               "description": null,
               "children": [],
@@ -430,10 +452,10 @@
                 "archived": false,
                 "id": 139510268,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T21:57:19Z",
+                "last_commit": "2026-08-23T19:12:07Z",
                 "owner": "cypress-visual-regression",
                 "repo": "cypress-visual-regression",
-                "stars": 662
+                "stars": 661
               }
             },
             {
@@ -774,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:46:12.437Z",
+    "last_updated": "2026-08-24T14:26:48.373Z",
     "original_repository": "brunopulis/awesome-cypress",
     "original_repository_id": 206841637,
     "original_repository_sha": "80de69ca4265da118a6c3e057c5d999efc38d18d",
