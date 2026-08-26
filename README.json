@@ -12,10 +12,10 @@
             "archived": false,
             "id": 31629751,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:55:37Z",
+            "last_commit": "2026-08-26T18:59:47Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50999
+            "stars": 51000
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 31629751,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:55:37Z",
+            "last_commit": "2026-08-26T18:59:47Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 50999
+            "stars": 51000
           }
         }
       ],
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 151519340,
             "language": "CSS",
-            "last_commit": "2026-08-18T21:08:31Z",
+            "last_commit": "2026-08-26T13:11:02Z",
             "owner": "bahmutov",
             "repo": "cypress-dark",
             "stars": 152
@@ -239,7 +239,7 @@
                 "last_commit": "2026-06-22T15:44:35Z",
                 "owner": "lirantal",
                 "repo": "cypress-social-logins",
-                "stars": 251
+                "stars": 250
               }
             },
             {
@@ -348,7 +348,7 @@
                 "archived": false,
                 "id": 118207433,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:01:28Z",
+                "last_commit": "2026-08-26T12:16:40Z",
                 "owner": "bahmutov",
                 "repo": "cypress-angular-unit-test",
                 "stars": 160
@@ -378,7 +378,7 @@
                 "archived": false,
                 "id": 128394502,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T21:40:18Z",
+                "last_commit": "2026-08-25T22:14:25Z",
                 "owner": "bahmutov",
                 "repo": "cypress-angularjs-unit-test",
                 "stars": 22
@@ -393,7 +393,7 @@
                 "archived": false,
                 "id": 121470002,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T20:13:19Z",
+                "last_commit": "2026-08-26T16:52:21Z",
                 "owner": "bahmutov",
                 "repo": "cypress-cycle-unit-test",
                 "stars": 3
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:55:58.552Z",
+    "last_updated": "2026-08-26T19:24:38.219Z",
     "original_repository": "brunopulis/awesome-cypress",
     "original_repository_id": 206841637,
     "original_repository_sha": "80de69ca4265da118a6c3e057c5d999efc38d18d",
