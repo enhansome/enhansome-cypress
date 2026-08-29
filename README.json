@@ -12,11 +12,12 @@
             "archived": false,
             "id": 31629751,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T01:28:57Z",
+            "last_commit": "2026-08-29T00:39:56Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51005
-          }
+            "stars": 51010
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 31629751,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T01:28:57Z",
+            "last_commit": "2026-08-29T00:39:56Z",
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51005
-          }
+            "stars": 51010
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         }
       ],
       "title": "Official"
@@ -51,8 +53,9 @@
             "last_commit": "2025-09-14T00:43:07Z",
             "owner": "sorry-cypress",
             "repo": "sorry-cypress",
-            "stars": 2810
-          }
+            "stars": 2811
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2024-09-10T12:05:59Z",
             "owner": "NoriSte",
             "repo": "cypress-wait-until",
-            "stars": 698
-          }
+            "stars": 697
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "samlucax",
             "repo": "cypress-essencial-mindmap",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "samlucax",
             "repo": "cypress-learning-checklist",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "Lakitna",
             "repo": "cypress-commands",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "bahmutov",
             "repo": "cypress-dark",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "cypress-io",
             "repo": "cypress-fiddle",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Shelex",
             "repo": "cypress-parallel-specs-locally",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "trentrand",
             "repo": "cypress-utils",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "henryruhs",
             "repo": "specut",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "get-skipper",
             "repo": "skipper",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "bahmutov",
             "repo": "cypress-local-https",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         }
       ],
       "title": "Tools"
@@ -240,7 +254,8 @@
                 "owner": "lirantal",
                 "repo": "cypress-social-logins",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -255,7 +270,8 @@
                 "owner": "Fredx87",
                 "repo": "cypress-keycloak-commands",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -270,7 +286,8 @@
                 "owner": "bjowes",
                 "repo": "cypress-ntlm-auth",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -285,7 +302,8 @@
                 "owner": "NoriSte",
                 "repo": "cypress-otp",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             }
           ],
           "description": null,
@@ -307,7 +325,8 @@
                 "owner": "cypress-io",
                 "repo": "cypress-react-unit-test",
                 "stars": 676
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -322,7 +341,8 @@
                 "owner": "cypress-io",
                 "repo": "cypress-vue-unit-test",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -337,7 +357,8 @@
                 "owner": "bahmutov",
                 "repo": "cypress-svelte-unit-test",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -352,7 +373,8 @@
                 "owner": "bahmutov",
                 "repo": "cypress-angular-unit-test",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -367,7 +389,8 @@
                 "owner": "bahmutov",
                 "repo": "cypress-hyperapp-unit-test",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -382,7 +405,8 @@
                 "owner": "bahmutov",
                 "repo": "cypress-angularjs-unit-test",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -397,7 +421,8 @@
                 "owner": "bahmutov",
                 "repo": "cypress-cycle-unit-test",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             }
           ],
           "description": null,
@@ -419,7 +444,8 @@
                 "owner": "SamuelTrottier",
                 "repo": "cypress-forms-commands",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             }
           ],
           "description": null,
@@ -441,7 +467,8 @@
                 "owner": "jaredpalmer",
                 "repo": "cypress-image-snapshot",
                 "stars": 890
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -456,7 +483,8 @@
                 "owner": "cypress-visual-regression",
                 "repo": "cypress-visual-regression",
                 "stars": 661
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -471,7 +499,8 @@
                 "owner": "meinaart",
                 "repo": "cypress-plugin-snapshots",
                 "stars": 493
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -486,7 +515,8 @@
                 "owner": "haim-io",
                 "repo": "cypress-image-diff",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -501,7 +531,8 @@
                 "owner": "Mikuu",
                 "repo": "Micoo",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -516,7 +547,8 @@
                 "owner": "Visual-Regression-Tracker",
                 "repo": "agent-cypress",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -531,7 +563,8 @@
                 "owner": "happo",
                 "repo": "happo-cypress",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -546,7 +579,8 @@
                 "owner": "PatrickWalker",
                 "repo": "cypress-visual-regression",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             }
           ],
           "description": null,
@@ -568,7 +602,8 @@
                 "owner": "archfz",
                 "repo": "cypress-terminal-report",
                 "stars": 537
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -583,7 +618,8 @@
                 "owner": "bahmutov",
                 "repo": "cypress-failed-log",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -598,7 +634,8 @@
                 "owner": "LironEr",
                 "repo": "cypress-mochawesome-reporter",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -613,7 +650,8 @@
                 "owner": "YOU54F",
                 "repo": "cypress-plugins",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -628,7 +666,8 @@
                 "owner": "Shelex",
                 "repo": "cypress-allure-plugin",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -639,11 +678,12 @@
                 "archived": false,
                 "id": 241091114,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T13:25:28Z",
+                "last_commit": "2026-08-28T17:44:54Z",
                 "owner": "testomatio",
                 "repo": "reporter",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -657,8 +697,9 @@
                 "last_commit": "2023-05-08T09:06:49Z",
                 "owner": "flotwig",
                 "repo": "cypress-log-to-output",
-                "stars": 147
-              }
+                "stars": 146
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -673,7 +714,8 @@
                 "owner": "Antontelesh",
                 "repo": "mochawesome-merge",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -688,7 +730,8 @@
                 "owner": "Vivify-Ideas",
                 "repo": "cypress-testrail-reporter",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -703,7 +746,8 @@
                 "owner": "bdimitrovski",
                 "repo": "cypress-healthcheck",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -718,7 +762,8 @@
                 "owner": "maritome",
                 "repo": "cypress-msteams-reporter",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -733,7 +778,8 @@
                 "owner": "prma85",
                 "repo": "cypress-teamcity-reporter",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             },
             {
               "node_type": "item",
@@ -748,7 +794,8 @@
                 "owner": "dkuznetsov21",
                 "repo": "autoset-status-cypress-testrail-reporter",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:05:14.919Z"
             }
           ],
           "description": null,
@@ -770,11 +817,12 @@
             "archived": false,
             "id": 75105915,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T22:40:55Z",
+            "last_commit": "2026-08-28T18:02:45Z",
             "owner": "cypress-io",
             "repo": "cypress-example-recipes",
             "stars": 3479
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         },
         {
           "node_type": "item",
@@ -789,14 +837,15 @@
             "owner": "riccardogiorato",
             "repo": "cypress-for-everything",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T01:05:14.919Z"
         }
       ],
       "title": "Examples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:36:02.548Z",
+    "last_updated": "2026-08-29T01:05:14.919Z",
     "original_repository_info": {
       "archived": false,
       "id": 206841637,
