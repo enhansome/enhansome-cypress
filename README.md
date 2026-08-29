@@ -41,8 +41,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,012 | 🐛 1,060 | 🌐 TypeScript | 📅 2026-08-29
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,012 | 🐛 1,060 | 🌐 TypeScript | 📅 2026-08-29
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,013 | 🐛 1,066 | 🌐 TypeScript | 📅 2026-08-29
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,013 | 🐛 1,066 | 🌐 TypeScript | 📅 2026-08-29
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -52,7 +52,7 @@ Official references of Cypress.
 * [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) ⭐ 2,811 | 🐛 52 | 🌐 TypeScript | 📅 2025-09-14 - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
   Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 * [Cypress Wait Until](https://github.com/NoriSte/cypress-wait-until) ⭐ 697 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-10 - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
-* [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) ⭐ 280 | 🐛 1 | 📅 2023-04-21 - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
+* [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) ⭐ 281 | 🐛 1 | 📅 2023-04-21 - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
 * [Cypress Learning Checklist](https://github.com/samlucax/cypress-learning-checklist) ⭐ 182 | 🐛 0 | 📅 2022-01-11 - Accelerate your Cypress learning by prioritizing what to study first - [Samuel Lucas](https://github.com/samlucax)
 * [Cypress Commands](https://github.com/Lakitna/cypress-commands) ⭐ 157 | 🐛 5 | 🌐 JavaScript | 📅 2023-02-08 - A collection of Cypress commands to extend and complement the defaults;
 * [Cypress Dark](https://github.com/bahmutov/cypress-dark) ⭐ 152 | 🐛 26 | 🌐 CSS | 📅 2026-08-26 - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
@@ -68,7 +68,7 @@ Official references of Cypress.
 
 ### Complementary QA Tools
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 913 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 933 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 
 ### Courses
 
