@@ -15,11 +15,11 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T19:29:21Z",
-            "open_issues": 1082,
+            "last_commit": "2026-09-05T01:10:45Z",
+            "open_issues": 1083,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51025,
+            "stars": 51028,
             "topics": [
               "angular-testing-library",
               "component-testing",
@@ -50,11 +50,11 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T19:29:21Z",
-            "open_issues": 1082,
+            "last_commit": "2026-09-05T01:10:45Z",
+            "open_issues": 1083,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51025,
+            "stars": 51028,
             "topics": [
               "angular-testing-library",
               "component-testing",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:47:00.685Z",
+    "last_updated": "2026-09-05T19:15:59.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",
