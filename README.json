@@ -15,11 +15,11 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T01:10:45Z",
+            "last_commit": "2026-09-06T01:07:32Z",
             "open_issues": 1083,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51028,
+            "stars": 51029,
             "topics": [
               "angular-testing-library",
               "component-testing",
@@ -50,11 +50,11 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T01:10:45Z",
+            "last_commit": "2026-09-06T01:07:32Z",
             "open_issues": 1083,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51028,
+            "stars": 51029,
             "topics": [
               "angular-testing-library",
               "component-testing",
@@ -1075,11 +1075,11 @@
                 "id": 241091114,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-03T23:58:57Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-06T05:41:18Z",
+                "open_issues": 24,
                 "owner": "testomatio",
                 "repo": "reporter",
-                "stars": 151,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:14.919Z"
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:15:59.600Z",
+    "last_updated": "2026-09-06T19:24:39.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",
@@ -1329,7 +1329,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-23T15:53:55Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "brunopulis",
       "repo": "awesome-cypress",
       "stars": 343,
