@@ -41,15 +41,15 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,032 | 🐛 1,086 | 🌐 TypeScript | 📅 2026-09-08
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,032 | 🐛 1,086 | 🌐 TypeScript | 📅 2026-09-08
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,006 | 🐛 1,084 | 🌐 TypeScript | 📅 2026-09-09
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,006 | 🐛 1,084 | 🌐 TypeScript | 📅 2026-09-09
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
 
 ### Tools
 
-* [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) ⭐ 2,810 | 🐛 52 | 🌐 TypeScript | 📅 2025-09-14 - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
+* [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) ⭐ 2,809 | 🐛 52 | 🌐 TypeScript | 📅 2025-09-14 - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
   Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 * [Cypress Wait Until](https://github.com/NoriSte/cypress-wait-until) ⭐ 696 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-10 - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
 * [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) ⭐ 282 | 🐛 1 | 📅 2023-04-21 - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
@@ -68,7 +68,7 @@ Official references of Cypress.
 
 ### Complementary QA Tools
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 904 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 908 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 
 ### Courses
 
@@ -98,7 +98,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress React unit test](https://github.com/bahmutov/cypress-react-unit-test) ⚠️ Archived - Test React components using Cypress Test Runner.
 * [Cypress Vue unit test](https://github.com/bahmutov/cypress-vue-unit-test) ⚠️ Archived - Test Vue.js components using Cypress Test Runner.
 * [Cypress Svelte unit test](https://github.com/bahmutov/cypress-svelte-unit-test) ⭐ 161 | 🐛 30 | 🌐 JavaScript | 📅 2026-06-04 - Test Svelte components using Cypress Test Runner.
-* [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angular-unit-test) ⭐ 160 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-08 - Test Angular component using Cypress Test Runner.
+* [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angular-unit-test) ⭐ 160 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-09 - Test Angular component using Cypress Test Runner.
 * [Cypress Hyperapp unit test](https://github.com/bahmutov/cypress-hyperapp-unit-test) ⭐ 25 | 🐛 15 | 🌐 JavaScript | 📅 2026-06-14 - Test Hyperapp components and applications using Cypress Test Runner.
 * [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angularjs-unit-test) ⭐ 22 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-01 - Unit test Angularjs code using Cypress Test Runner.
 * [Cypress Cycle Unit Test](https://github.com/bahmutov/cypress-cycle-unit-test) ⭐ 3 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-07 - Test Cycle.js components using Cypress Test Runner.
@@ -110,7 +110,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 #### Visual Testing
 
 * [Cypress Image Snapshot](https://github.com/palmerhq/cypress-image-snapshot) ⭐ 890 | 🐛 122 | 🌐 JavaScript | 📅 2024-04-10
-* [Cypress Visual Regression](https://github.com/mjhea0/cypress-visual-regression) ⭐ 662 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-08
+* [Cypress Visual Regression](https://github.com/mjhea0/cypress-visual-regression) ⭐ 662 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-08
 * [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots) ⭐ 493 | 🐛 118 | 🌐 JavaScript | 📅 2024-06-12
 * [Cypress Image Diff](https://github.com/uktrade/cypress-image-diff) ⭐ 272 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-23
 * [Micoo](https://github.com/Mikuu/Micoo/tree/master/clients/micoocypress) ⭐ 195 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-05
@@ -128,7 +128,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 186 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-31
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 170 | 🐛 18 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 152 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-07
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 152 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-09
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 146 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
 * [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
@@ -139,7 +139,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Containers
 
-* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,058 | 🐛 23 | 🌐 Dockerfile | 📅 2026-09-07 - Docker images with Cypress dependencies and browsers.
+* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,058 | 🐛 25 | 🌐 Dockerfile | 📅 2026-09-07 - Docker images with Cypress dependencies and browsers.
 
 ### Blogs
 
@@ -212,4 +212,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
