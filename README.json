@@ -15,11 +15,11 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T18:52:33Z",
-            "open_issues": 1079,
+            "last_commit": "2026-09-12T18:50:00Z",
+            "open_issues": 1082,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51007,
+            "stars": 51008,
             "topics": [
               "angular-testing-library",
               "component-testing",
@@ -50,11 +50,11 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T18:52:33Z",
-            "open_issues": 1079,
+            "last_commit": "2026-09-12T18:50:00Z",
+            "open_issues": 1082,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51007,
+            "stars": 51008,
             "topics": [
               "angular-testing-library",
               "component-testing",
@@ -153,7 +153,7 @@
             "open_issues": 1,
             "owner": "samlucax",
             "repo": "cypress-essencial-mindmap",
-            "stars": 282,
+            "stars": 283,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:14.919Z"
@@ -372,6 +372,39 @@
             ]
           },
           "first_seen": "2026-08-29T01:05:14.919Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Qualflare",
+          "description": "Uploads results for history-based flaky-test detection, failure clustering, and release-risk scoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native Cypress reporter for Qualflare — suite/test results, per-attempt retry history, screenshots and command traces. Makes no network calls: writes a standardized report directory that qualflare-cli collect uploads, so any number of sharded jobs merge into one launch.",
+            "homepage": "https://qualflare.com/cypress-test-reporting/",
+            "id": 1343163782,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-08T22:33:49Z",
+            "open_issues": 0,
+            "owner": "Qualflare",
+            "repo": "qualflare-cypress",
+            "stars": 0,
+            "topics": [
+              "ci",
+              "cypress",
+              "cypress-plugin",
+              "e2e-testing",
+              "flaky-tests",
+              "qualflare",
+              "test-management",
+              "test-reporter",
+              "test-reporting",
+              "test-results",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-12T19:33:26.950Z"
         }
       ],
       "title": "Tools"
@@ -479,6 +512,37 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:14.919Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Cypress receivemail",
+              "description": "Commands to read verification emails from a free disposable inbox (receivemail.dev), no signup or API key.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cypress commands for reading verification emails from a free disposable inbox (receivemail.dev) — no signup, no API key",
+                "homepage": null,
+                "id": 1353177863,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-01T05:40:23Z",
+                "open_issues": 0,
+                "owner": "flovoice53-tech",
+                "repo": "cypress-receivemail",
+                "stars": 0,
+                "topics": [
+                  "cypress",
+                  "cypress-plugin",
+                  "disposable-email",
+                  "e2e",
+                  "email-testing",
+                  "otp",
+                  "qa-testing",
+                  "temp-mail",
+                  "verification-email"
+                ]
+              },
+              "first_seen": "2026-09-12T19:33:26.950Z"
             }
           ],
           "description": null,
@@ -1320,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:55:47.022Z",
+    "last_updated": "2026-09-12T19:33:26.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",
@@ -1328,8 +1392,8 @@
       "id": 206841637,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-23T15:53:55Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-12T16:31:29Z",
+      "open_issues": 1,
       "owner": "brunopulis",
       "repo": "awesome-cypress",
       "stars": 343,
@@ -1346,7 +1410,7 @@
         "testing-tools"
       ]
     },
-    "original_repository_sha": "80de69ca4265da118a6c3e057c5d999efc38d18d",
+    "original_repository_sha": "b0c6aa6dfd572b1d968fd1aa921fb5914b0515ab",
     "enhanced_repository": "enhansome/enhansome-cypress",
     "enhanced_repository_description": null,
     "title": "Awesome Cypress with stars"
