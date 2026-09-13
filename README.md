@@ -42,8 +42,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,008 | 🐛 1,082 | 🌐 TypeScript | 📅 2026-09-12
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,008 | 🐛 1,082 | 🌐 TypeScript | 📅 2026-09-12
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,008 | 🐛 1,079 | 🌐 TypeScript | 📅 2026-09-13
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,008 | 🐛 1,079 | 🌐 TypeScript | 📅 2026-09-13
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -63,7 +63,7 @@ Official references of Cypress.
 * [Specut](https://github.com/henryruhs/specut) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2025-02-07 - Cut massive test suites into equal chunks.
 * [skipper](https://github.com/get-skipper/skipper) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-01 - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 * [Cypress Local Https](https://github.com/bahmutov/cypress-local-https) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-20
-* [Qualflare](https://github.com/Qualflare/qualflare-cypress) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08 - Uploads results for history-based flaky-test detection, failure clustering, and release-risk scoring.
+* [Qualflare](https://github.com/Qualflare/qualflare-cypress) ⭐ 0 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-12 - Uploads results for history-based flaky-test detection, failure clustering, and release-risk scoring.
 * [DeploySentinel](https://deploysentinel.com/) - `cypress open` for your CI. Eliminate flaky Cypress tests with DOM, network and console log captures from CI - [Mike Shi](https://github.com/MikeShi42)
 * [Moon](https://aerokube.com/moon/) - Platform for remote parallel Cypress tests execution working in Kubernetes cluster.
 * [Testward](https://testward.app) - GitHub App that flags which Cypress specs a pull request will break — at review time, even when the specs live in a separate repo.
@@ -219,4 +219,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
