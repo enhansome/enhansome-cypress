@@ -15,8 +15,8 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T19:34:04Z",
-            "open_issues": 1079,
+            "last_commit": "2026-09-14T19:45:06Z",
+            "open_issues": 1074,
             "owner": "cypress-io",
             "repo": "cypress",
             "stars": 51008,
@@ -50,8 +50,8 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T19:34:04Z",
-            "open_issues": 1079,
+            "last_commit": "2026-09-14T19:45:06Z",
+            "open_issues": 1074,
             "owner": "cypress-io",
             "repo": "cypress",
             "stars": 51008,
@@ -95,7 +95,7 @@
             "open_issues": 52,
             "owner": "sorry-cypress",
             "repo": "sorry-cypress",
-            "stars": 2809,
+            "stars": 2808,
             "topics": [
               "cypress",
               "cypress-dashboard",
@@ -457,7 +457,7 @@
                 "open_issues": 40,
                 "owner": "Fredx87",
                 "repo": "cypress-keycloak-commands",
-                "stars": 70,
+                "stars": 69,
                 "topics": [
                   "auth",
                   "cypress",
@@ -793,7 +793,7 @@
                 "open_issues": 122,
                 "owner": "jaredpalmer",
                 "repo": "cypress-image-snapshot",
-                "stars": 889,
+                "stars": 888,
                 "topics": [
                   "cypress",
                   "cypress-plugin",
@@ -823,7 +823,7 @@
                 "open_issues": 5,
                 "owner": "cypress-visual-regression",
                 "repo": "cypress-visual-regression",
-                "stars": 662,
+                "stars": 661,
                 "topics": [
                   "cypress",
                   "cypress-plugin",
@@ -878,7 +878,7 @@
                 "open_issues": 0,
                 "owner": "haim-io",
                 "repo": "cypress-image-diff",
-                "stars": 272,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:14.919Z"
@@ -1030,7 +1030,7 @@
                 "open_issues": 26,
                 "owner": "bahmutov",
                 "repo": "cypress-failed-log",
-                "stars": 197,
+                "stars": 196,
                 "topics": [
                   "cypress",
                   "cypress-io",
@@ -1055,7 +1055,7 @@
                 "open_issues": 6,
                 "owner": "LironEr",
                 "repo": "cypress-mochawesome-reporter",
-                "stars": 186,
+                "stars": 185,
                 "topics": [
                   "cypress",
                   "cypress-io",
@@ -1384,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:38:45.467Z",
+    "last_updated": "2026-09-14T21:00:54.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",
