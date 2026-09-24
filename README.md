@@ -42,8 +42,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,025 | 🐛 1,089 | 🌐 TypeScript | 📅 2026-09-23
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,025 | 🐛 1,089 | 🌐 TypeScript | 📅 2026-09-23
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,025 | 🐛 1,096 | 🌐 TypeScript | 📅 2026-09-24
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,025 | 🐛 1,096 | 🌐 TypeScript | 📅 2026-09-24
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -70,7 +70,7 @@ Official references of Cypress.
 
 ### Complementary QA Tools
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 889 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 887 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 
 ### Courses
 
@@ -94,14 +94,14 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Keycloak Commands](https://github.com/Fredx87/cypress-keycloak-commands) ⭐ 69 | 🐛 40 | 🌐 TypeScript | 📅 2024-04-26 - Cypress commands for authenticate users with Keycloak Identity Provider.
 * [Cypress NTLM Auth](https://github.com/bjowes/cypress-ntlm-auth) ⭐ 54 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-05 - NTLM authentication support for Cypress.
 * [Cypress OTP](https://github.com/NoriSte/cypress-otp) ⭐ 48 | 🐛 12 | 🌐 JavaScript | 📅 2023-06-07 - Valid OTP token generation for Cypress.
-* [Cypress receivemail](https://github.com/flovoice53-tech/cypress-receivemail) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-01 - Commands to read verification emails from a free disposable inbox (receivemail.dev), no signup or API key.
+* [Cypress receivemail](https://github.com/flovoice53-tech/cypress-receivemail) - Commands to read verification emails from a free disposable inbox (receivemail.dev), no signup or API key.
 
 #### Component Testing
 
 * [Cypress React unit test](https://github.com/bahmutov/cypress-react-unit-test) ⚠️ Archived - Test React components using Cypress Test Runner.
 * [Cypress Vue unit test](https://github.com/bahmutov/cypress-vue-unit-test) ⚠️ Archived - Test Vue.js components using Cypress Test Runner.
 * [Cypress Svelte unit test](https://github.com/bahmutov/cypress-svelte-unit-test) ⭐ 161 | 🐛 30 | 🌐 JavaScript | 📅 2026-06-04 - Test Svelte components using Cypress Test Runner.
-* [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angular-unit-test) ⭐ 160 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-16 - Test Angular component using Cypress Test Runner.
+* [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angular-unit-test) ⭐ 160 | 🐛 32 | 🌐 TypeScript | 📅 2026-09-24 - Test Angular component using Cypress Test Runner.
 * [Cypress Hyperapp unit test](https://github.com/bahmutov/cypress-hyperapp-unit-test) ⭐ 25 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-16 - Test Hyperapp components and applications using Cypress Test Runner.
 * [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angularjs-unit-test) ⭐ 22 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-16 - Unit test Angularjs code using Cypress Test Runner.
 * [Cypress Cycle Unit Test](https://github.com/bahmutov/cypress-cycle-unit-test) ⭐ 3 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-18 - Test Cycle.js components using Cypress Test Runner.
@@ -131,7 +131,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 185 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-31
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 170 | 🐛 18 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 152 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-23
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 152 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-23
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 146 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
 * [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
@@ -142,7 +142,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Containers
 
-* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 19 | 🌐 Dockerfile | 📅 2026-09-23 - Docker images with Cypress dependencies and browsers.
+* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 18 | 🌐 Dockerfile | 📅 2026-09-24 - Docker images with Cypress dependencies and browsers.
 
 ### People to follow
 
@@ -214,9 +214,9 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Examples
 
-* [Cypress recipes for common scenarios](https://github.com/cypress-io/cypress-example-recipes) ⭐ 3,478 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-22
+* [Cypress recipes for common scenarios](https://github.com/cypress-io/cypress-example-recipes) ⭐ 3,477 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-22
 * [Cypress for Everything 🤩: testing SEO, Http Redirects, Logins, Sitemaps and more!](https://github.com/riccardogiorato/cypress-for-everything) ⭐ 80 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-14
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

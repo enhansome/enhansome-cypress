@@ -15,8 +15,8 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T19:17:09Z",
-            "open_issues": 1089,
+            "last_commit": "2026-09-24T20:38:19Z",
+            "open_issues": 1096,
             "owner": "cypress-io",
             "repo": "cypress",
             "stars": 51025,
@@ -50,8 +50,8 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T19:17:09Z",
-            "open_issues": 1089,
+            "last_commit": "2026-09-24T20:38:19Z",
+            "open_issues": 1096,
             "owner": "cypress-io",
             "repo": "cypress",
             "stars": 51025,
@@ -512,37 +512,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:14.919Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Cypress receivemail",
-              "description": "Commands to read verification emails from a free disposable inbox (receivemail.dev), no signup or API key.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cypress commands for reading verification emails from a free disposable inbox (receivemail.dev) — no signup, no API key",
-                "homepage": null,
-                "id": 1353177863,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-01T05:40:23Z",
-                "open_issues": 0,
-                "owner": "flovoice53-tech",
-                "repo": "cypress-receivemail",
-                "stars": 0,
-                "topics": [
-                  "cypress",
-                  "cypress-plugin",
-                  "disposable-email",
-                  "e2e",
-                  "email-testing",
-                  "otp",
-                  "qa-testing",
-                  "temp-mail",
-                  "verification-email"
-                ]
-              },
-              "first_seen": "2026-09-12T19:33:26.950Z"
             }
           ],
           "description": null,
@@ -648,7 +617,7 @@
                 "id": 118207433,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-16T21:55:32Z",
+                "last_commit": "2026-09-24T06:16:14Z",
                 "open_issues": 32,
                 "owner": "bahmutov",
                 "repo": "cypress-angular-unit-test",
@@ -1140,7 +1109,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-09-23T15:14:00Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "testomatio",
                 "repo": "reporter",
                 "stars": 152,
@@ -1333,7 +1302,7 @@
             "open_issues": 9,
             "owner": "cypress-io",
             "repo": "cypress-example-recipes",
-            "stars": 3478,
+            "stars": 3477,
             "topics": [
               "automated-tests",
               "cypress",
@@ -1384,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:35:58.383Z",
+    "last_updated": "2026-09-24T20:38:56.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",
