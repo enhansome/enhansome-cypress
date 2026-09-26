@@ -42,8 +42,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,023 | 🐛 1,095 | 🌐 TypeScript | 📅 2026-09-25
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,023 | 🐛 1,095 | 🌐 TypeScript | 📅 2026-09-25
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,025 | 🐛 1,097 | 🌐 TypeScript | 📅 2026-09-26
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,025 | 🐛 1,097 | 🌐 TypeScript | 📅 2026-09-26
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -70,7 +70,7 @@ Official references of Cypress.
 
 ### Complementary QA Tools
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 887 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 889 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 
 ### Courses
 
@@ -126,7 +126,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 #### Reporting
 
-* [Cypress terminal report](https://github.com/archfz/cypress-terminal-report) ⭐ 538 | 🐛 21 | 🌐 TypeScript | 📅 2026-07-16
+* [Cypress terminal report](https://github.com/archfz/cypress-terminal-report) ⭐ 538 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-16
 * [Cypress failed log](https://github.com/bahmutov/cypress-failed-log) ⭐ 196 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-06
 * [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 185 | 🐛 6 | 🌐 JavaScript | 📅 2026-07-31
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
@@ -142,7 +142,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Containers
 
-* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 18 | 🌐 Dockerfile | 📅 2026-09-25 - Docker images with Cypress dependencies and browsers.
+* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 18 | 🌐 Dockerfile | 📅 2026-09-26 - Docker images with Cypress dependencies and browsers.
 
 ### People to follow
 
@@ -219,4 +219,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
