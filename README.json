@@ -15,8 +15,8 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T20:06:41Z",
-            "open_issues": 1107,
+            "last_commit": "2026-09-30T20:31:49Z",
+            "open_issues": 1106,
             "owner": "cypress-io",
             "repo": "cypress",
             "stars": 51043,
@@ -50,8 +50,8 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T20:06:41Z",
-            "open_issues": 1107,
+            "last_commit": "2026-09-30T20:31:49Z",
+            "open_issues": 1106,
             "owner": "cypress-io",
             "repo": "cypress",
             "stars": 51043,
@@ -564,7 +564,7 @@
                 "open_issues": 0,
                 "owner": "cypress-io",
                 "repo": "cypress-vue-unit-test",
-                "stars": 291,
+                "stars": 290,
                 "topics": [
                   "cypress",
                   "cypress-io",
@@ -696,7 +696,7 @@
                 "id": 121470002,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-25T01:42:48Z",
+                "last_commit": "2026-09-30T19:14:07Z",
                 "open_issues": 17,
                 "owner": "bahmutov",
                 "repo": "cypress-cycle-unit-test",
@@ -1302,7 +1302,7 @@
             "open_issues": 9,
             "owner": "cypress-io",
             "repo": "cypress-example-recipes",
-            "stars": 3477,
+            "stars": 3478,
             "topics": [
               "automated-tests",
               "cypress",
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:29:52.186Z",
+    "last_updated": "2026-09-30T21:29:48.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",
