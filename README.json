@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "GitHub Repo",
-          "description": null,
+          "description": "cypress-io/cypress",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,7 +15,7 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T19:46:34Z",
+            "last_commit": "2026-10-02T22:17:48Z",
             "open_issues": 1116,
             "owner": "cypress-io",
             "repo": "cypress",
@@ -41,7 +41,7 @@
         {
           "node_type": "item",
           "title": "Release Notes",
-          "description": null,
+          "description": "cypress-io/cypress",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,7 +50,7 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T19:46:34Z",
+            "last_commit": "2026-10-02T22:17:48Z",
             "open_issues": 1116,
             "owner": "cypress-io",
             "repo": "cypress",
@@ -236,7 +236,7 @@
         {
           "node_type": "item",
           "title": "Cypress Fiddle",
-          "description": null,
+          "description": "cypress-io/cypress-fiddle",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -353,7 +353,7 @@
         {
           "node_type": "item",
           "title": "Cypress Local Https",
-          "description": null,
+          "description": "bahmutov/cypress-local-https",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -749,7 +749,7 @@
             {
               "node_type": "item",
               "title": "Cypress Image Snapshot",
-              "description": null,
+              "description": "jaredpalmer/cypress-image-snapshot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -779,7 +779,7 @@
             {
               "node_type": "item",
               "title": "Cypress Visual Regression",
-              "description": null,
+              "description": "cypress-visual-regression/cypress-visual-regression",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -806,7 +806,7 @@
             {
               "node_type": "item",
               "title": "Cypress Plugin Snapshots",
-              "description": null,
+              "description": "meinaart/cypress-plugin-snapshots",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -834,7 +834,7 @@
             {
               "node_type": "item",
               "title": "Cypress Image Diff",
-              "description": null,
+              "description": "haim-io/cypress-image-diff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -855,7 +855,7 @@
             {
               "node_type": "item",
               "title": "Micoo",
-              "description": null,
+              "description": "Mikuu/Micoo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -880,7 +880,7 @@
             {
               "node_type": "item",
               "title": "Visual Regression Tracker",
-              "description": null,
+              "description": "Visual-Regression-Tracker/agent-cypress",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -905,7 +905,7 @@
             {
               "node_type": "item",
               "title": "Happo",
-              "description": null,
+              "description": "happo/happo-cypress",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -926,7 +926,7 @@
             {
               "node_type": "item",
               "title": "Cypress Blink Test",
-              "description": null,
+              "description": "PatrickWalker/cypress-visual-regression",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -954,7 +954,7 @@
             {
               "node_type": "item",
               "title": "Cypress terminal report",
-              "description": null,
+              "description": "archfz/cypress-terminal-report",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -986,7 +986,7 @@
             {
               "node_type": "item",
               "title": "Cypress failed log",
-              "description": null,
+              "description": "bahmutov/cypress-failed-log",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1011,7 +1011,7 @@
             {
               "node_type": "item",
               "title": "Cypress Mochawesome reporter",
-              "description": null,
+              "description": "LironEr/cypress-mochawesome-reporter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1040,7 +1040,7 @@
             {
               "node_type": "item",
               "title": "Cypress Slack Reporter",
-              "description": null,
+              "description": "YOU54F/cypress-plugins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1071,7 +1071,7 @@
             {
               "node_type": "item",
               "title": "Cypress Allure Plugin",
-              "description": null,
+              "description": "Shelex/cypress-allure-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1099,7 +1099,7 @@
             {
               "node_type": "item",
               "title": "Cypress testomatio reporter",
-              "description": null,
+              "description": "testomatio/reporter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1120,7 +1120,7 @@
             {
               "node_type": "item",
               "title": "Cypress log to output",
-              "description": null,
+              "description": "flotwig/cypress-log-to-output",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1141,7 +1141,7 @@
             {
               "node_type": "item",
               "title": "Mochawesome merge",
-              "description": null,
+              "description": "Antontelesh/mochawesome-merge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1166,7 +1166,7 @@
             {
               "node_type": "item",
               "title": "Cypress testrail reporter",
-              "description": null,
+              "description": "Vivify-Ideas/cypress-testrail-reporter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1187,7 +1187,7 @@
             {
               "node_type": "item",
               "title": "Cypress Health Check",
-              "description": null,
+              "description": "bdimitrovski/cypress-healthcheck",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1208,7 +1208,7 @@
             {
               "node_type": "item",
               "title": "Cypress Msteams reporter",
-              "description": null,
+              "description": "maritome/cypress-msteams-reporter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1229,7 +1229,7 @@
             {
               "node_type": "item",
               "title": "Cypress teamcity reporter",
-              "description": null,
+              "description": "prma85/cypress-teamcity-reporter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1257,7 +1257,7 @@
             {
               "node_type": "item",
               "title": "Autoset status cypress testrail reporter",
-              "description": null,
+              "description": "dkuznetsov21/autoset-status-cypress-testrail-reporter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1289,7 +1289,7 @@
         {
           "node_type": "item",
           "title": "Cypress recipes for common scenarios",
-          "description": null,
+          "description": "cypress-io/cypress-example-recipes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1319,7 +1319,7 @@
         {
           "node_type": "item",
           "title": "Cypress for Everything 🤩: testing SEO, Http Redirects, Logins, Sitemaps and more!",
-          "description": null,
+          "description": "riccardogiorato/cypress-for-everything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:24:20.305Z",
+    "last_updated": "2026-10-03T04:42:25.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",
