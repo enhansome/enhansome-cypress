@@ -15,11 +15,11 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:17:48Z",
-            "open_issues": 1116,
+            "last_commit": "2026-10-03T13:06:57Z",
+            "open_issues": 1117,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51045,
+            "stars": 51043,
             "topics": [
               "angular-testing-library",
               "component-testing",
@@ -50,11 +50,11 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:17:48Z",
-            "open_issues": 1116,
+            "last_commit": "2026-10-03T13:06:57Z",
+            "open_issues": 1117,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51045,
+            "stars": 51043,
             "topics": [
               "angular-testing-library",
               "component-testing",
@@ -382,10 +382,10 @@
             "archived": false,
             "description": "Native Cypress reporter for Qualflare — suite/test results, per-attempt retry history, screenshots and command traces. Makes no network calls: writes a standardized report directory that qualflare-cli collect uploads, so any number of sharded jobs merge into one launch.",
             "homepage": "https://qualflare.com/cypress-test-reporting/",
-            "id": 1343163782,
+            "id": 1403185419,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T13:13:13Z",
+            "last_commit": "2026-10-03T14:38:45Z",
             "open_issues": 0,
             "owner": "Qualflare",
             "repo": "qualflare-cypress",
@@ -404,7 +404,7 @@
               "typescript"
             ]
           },
-          "first_seen": "2026-09-12T19:33:26.950Z"
+          "first_seen": "2026-10-03T20:04:29.568Z"
         }
       ],
       "title": "Tools"
@@ -1108,8 +1108,8 @@
                 "id": 241091114,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-02T10:49:54Z",
-                "open_issues": 35,
+                "last_commit": "2026-10-03T11:20:51Z",
+                "open_issues": 36,
                 "owner": "testomatio",
                 "repo": "reporter",
                 "stars": 153,
@@ -1353,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:25.487Z",
+    "last_updated": "2026-10-03T20:04:29.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",

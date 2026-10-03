@@ -42,8 +42,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,045 | 🐛 1,116 | 🌐 TypeScript | 📅 2026-10-02
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,045 | 🐛 1,116 | 🌐 TypeScript | 📅 2026-10-02
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,043 | 🐛 1,117 | 🌐 TypeScript | 📅 2026-10-03
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,043 | 🐛 1,117 | 🌐 TypeScript | 📅 2026-10-03
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -63,14 +63,14 @@ Official references of Cypress.
 * [Specut](https://github.com/henryruhs/specut) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2025-02-07 - Cut massive test suites into equal chunks.
 * [skipper](https://github.com/get-skipper/skipper) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-01 - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 * [Cypress Local Https](https://github.com/bahmutov/cypress-local-https) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-20
-* [Qualflare](https://github.com/Qualflare/qualflare-cypress) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01 - Uploads results for history-based flaky-test detection, failure clustering, and release-risk scoring.
+* [Qualflare](https://github.com/Qualflare/qualflare-cypress) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-03 - Uploads results for history-based flaky-test detection, failure clustering, and release-risk scoring.
 * [DeploySentinel](https://deploysentinel.com/) - `cypress open` for your CI. Eliminate flaky Cypress tests with DOM, network and console log captures from CI - [Mike Shi](https://github.com/MikeShi42)
 * [Moon](https://aerokube.com/moon/) - Platform for remote parallel Cypress tests execution working in Kubernetes cluster.
 * [Testward](https://testward.app) - GitHub App that flags which Cypress specs a pull request will break — at review time, even when the specs live in a separate repo.
 
 ### Complementary QA Tools
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 894 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 897 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 
 ### Courses
 
@@ -131,7 +131,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 185 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-02
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 170 | 🐛 18 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 153 | 🐛 35 | 🌐 JavaScript | 📅 2026-10-02
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 153 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-03
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 146 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
 * [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
