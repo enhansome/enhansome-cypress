@@ -42,8 +42,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,042 | 🐛 1,118 | 🌐 TypeScript | 📅 2026-10-04
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,042 | 🐛 1,118 | 🌐 TypeScript | 📅 2026-10-04
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,037 | 🐛 1,130 | 🌐 TypeScript | 📅 2026-10-05
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,037 | 🐛 1,130 | 🌐 TypeScript | 📅 2026-10-05
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -56,7 +56,7 @@ Official references of Cypress.
 * [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) ⭐ 283 | 🐛 1 | 📅 2023-04-21 - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
 * [Cypress Learning Checklist](https://github.com/samlucax/cypress-learning-checklist) ⭐ 182 | 🐛 0 | 📅 2022-01-11 - Accelerate your Cypress learning by prioritizing what to study first - [Samuel Lucas](https://github.com/samlucax)
 * [Cypress Commands](https://github.com/Lakitna/cypress-commands) ⭐ 157 | 🐛 5 | 🌐 JavaScript | 📅 2023-02-08 - A collection of Cypress commands to extend and complement the defaults;
-* [Cypress Dark](https://github.com/bahmutov/cypress-dark) ⭐ 151 | 🐛 26 | 🌐 CSS | 📅 2026-10-01 - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
+* [Cypress Dark](https://github.com/bahmutov/cypress-dark) ⭐ 151 | 🐛 26 | 🌐 CSS | 📅 2026-10-05 - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
 * [Cypress Fiddle](https://github.com/cypress-io/cypress-fiddle) ⚠️ Archived
 * [Cypress Parallel Specs Locally](https://github.com/Shelex/cypress-parallel-specs-locally) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-05 - About
 * [Cypress Utils](https://github.com/trentrand/cypress-utils) ⭐ 25 | 🐛 10 | 🌐 JavaScript | 📅 2026-04-02 - CLI tool to easily parallelize and stress-test your Cypress tests
@@ -101,10 +101,10 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress React unit test](https://github.com/bahmutov/cypress-react-unit-test) ⚠️ Archived - Test React components using Cypress Test Runner.
 * [Cypress Vue unit test](https://github.com/bahmutov/cypress-vue-unit-test) ⚠️ Archived - Test Vue.js components using Cypress Test Runner.
 * [Cypress Svelte unit test](https://github.com/bahmutov/cypress-svelte-unit-test) ⭐ 161 | 🐛 30 | 🌐 JavaScript | 📅 2026-06-04 - Test Svelte components using Cypress Test Runner.
-* [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angular-unit-test) ⭐ 160 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-01 - Test Angular component using Cypress Test Runner.
+* [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angular-unit-test) ⭐ 160 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-05 - Test Angular component using Cypress Test Runner.
 * [Cypress Hyperapp unit test](https://github.com/bahmutov/cypress-hyperapp-unit-test) ⭐ 25 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-16 - Test Hyperapp components and applications using Cypress Test Runner.
 * [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angularjs-unit-test) ⭐ 22 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-29 - Unit test Angularjs code using Cypress Test Runner.
-* [Cypress Cycle Unit Test](https://github.com/bahmutov/cypress-cycle-unit-test) ⭐ 3 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-30 - Test Cycle.js components using Cypress Test Runner.
+* [Cypress Cycle Unit Test](https://github.com/bahmutov/cypress-cycle-unit-test) ⭐ 3 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-05 - Test Cycle.js components using Cypress Test Runner.
 
 #### Forms
 
@@ -112,9 +112,9 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 #### Visual Testing
 
-* [Cypress Image Snapshot](https://github.com/palmerhq/cypress-image-snapshot) ⭐ 888 | 🐛 122 | 🌐 JavaScript | 📅 2024-04-10
+* [Cypress Image Snapshot](https://github.com/palmerhq/cypress-image-snapshot) ⭐ 887 | 🐛 122 | 🌐 JavaScript | 📅 2024-04-10
 * [Cypress Visual Regression](https://github.com/mjhea0/cypress-visual-regression) ⭐ 661 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-10
-* [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots) ⭐ 493 | 🐛 118 | 🌐 JavaScript | 📅 2026-09-16
+* [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots) ⭐ 492 | 🐛 118 | 🌐 JavaScript | 📅 2026-09-16
 * [Cypress Image Diff](https://github.com/uktrade/cypress-image-diff) ⭐ 271 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-23
 * [Micoo](https://github.com/Mikuu/Micoo/tree/master/clients/micoocypress) ⭐ 195 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-05
 * [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/agent-cypress) ⭐ 75 | 🐛 5 | 🌐 TypeScript | 📅 2023-10-31
@@ -126,12 +126,12 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 #### Reporting
 
-* [Cypress terminal report](https://github.com/archfz/cypress-terminal-report) ⭐ 538 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-27
+* [Cypress terminal report](https://github.com/archfz/cypress-terminal-report) ⭐ 537 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-27
 * [Cypress failed log](https://github.com/bahmutov/cypress-failed-log) ⭐ 195 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-06
-* [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 185 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-02
+* [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 184 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-02
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 170 | 🐛 18 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 153 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-03
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 153 | 🐛 37 | 🌐 JavaScript | 📅 2026-10-05
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 146 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
 * [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
@@ -142,7 +142,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Containers
 
-* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 18 | 🌐 Dockerfile | 📅 2026-09-30 - Docker images with Cypress dependencies and browsers.
+* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 19 | 🌐 Dockerfile | 📅 2026-10-05 - Docker images with Cypress dependencies and browsers.
 
 ### People to follow
 
@@ -219,4 +219,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
