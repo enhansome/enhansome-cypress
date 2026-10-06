@@ -42,8 +42,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,040 | 🐛 1,130 | 🌐 TypeScript | 📅 2026-10-05
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,040 | 🐛 1,130 | 🌐 TypeScript | 📅 2026-10-05
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,038 | 🐛 1,128 | 🌐 TypeScript | 📅 2026-10-06
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,038 | 🐛 1,128 | 🌐 TypeScript | 📅 2026-10-06
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -70,7 +70,7 @@ Official references of Cypress.
 
 ### Complementary QA Tools
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 899 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 901 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 
 ### Courses
 
@@ -131,7 +131,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 184 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-02
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 170 | 🐛 18 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 153 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-05
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 154 | 🐛 35 | 🌐 JavaScript | 📅 2026-10-05
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 146 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
 * [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
