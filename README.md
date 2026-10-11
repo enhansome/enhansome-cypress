@@ -42,8 +42,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,044 | 🐛 1,126 | 🌐 TypeScript | 📅 2026-10-10
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,044 | 🐛 1,126 | 🌐 TypeScript | 📅 2026-10-10
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,046 | 🐛 1,126 | 🌐 TypeScript | 📅 2026-10-11
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,046 | 🐛 1,126 | 🌐 TypeScript | 📅 2026-10-11
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -131,7 +131,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 184 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-02
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 170 | 🐛 18 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 154 | 🐛 37 | 🌐 JavaScript | 📅 2026-10-09
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 154 | 🐛 38 | 🌐 JavaScript | 📅 2026-10-11
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 146 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
 * [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
@@ -214,9 +214,9 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Examples
 
-* [Cypress recipes for common scenarios](https://github.com/cypress-io/cypress-example-recipes) ⭐ 3,478 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-29
+* [Cypress recipes for common scenarios](https://github.com/cypress-io/cypress-example-recipes) ⭐ 3,477 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-29
 * [Cypress for Everything 🤩: testing SEO, Http Redirects, Logins, Sitemaps and more!](https://github.com/riccardogiorato/cypress-for-everything) ⭐ 80 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-14
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
