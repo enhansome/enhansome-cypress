@@ -42,21 +42,21 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,046 | 🐛 1,139 | 🌐 TypeScript | 📅 2026-10-18
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,046 | 🐛 1,139 | 🌐 TypeScript | 📅 2026-10-18
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,046 | 🐛 1,140 | 🌐 TypeScript | 📅 2026-10-19
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,046 | 🐛 1,140 | 🌐 TypeScript | 📅 2026-10-19
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
 
 ### Tools
 
-* [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) ⭐ 2,811 | 🐛 51 | 🌐 TypeScript | 📅 2025-09-14 - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
+* [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) ⭐ 2,812 | 🐛 51 | 🌐 TypeScript | 📅 2025-09-14 - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
   Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 * [Cypress Wait Until](https://github.com/NoriSte/cypress-wait-until) ⭐ 696 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-10 - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
 * [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) ⭐ 283 | 🐛 1 | 📅 2023-04-21 - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
 * [Cypress Learning Checklist](https://github.com/samlucax/cypress-learning-checklist) ⭐ 182 | 🐛 0 | 📅 2022-01-11 - Accelerate your Cypress learning by prioritizing what to study first - [Samuel Lucas](https://github.com/samlucax)
 * [Cypress Commands](https://github.com/Lakitna/cypress-commands) ⭐ 157 | 🐛 5 | 🌐 JavaScript | 📅 2023-02-08 - A collection of Cypress commands to extend and complement the defaults;
-* [Cypress Dark](https://github.com/bahmutov/cypress-dark) ⭐ 151 | 🐛 26 | 🌐 CSS | 📅 2026-10-16 - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
+* [Cypress Dark](https://github.com/bahmutov/cypress-dark) ⭐ 151 | 🐛 26 | 🌐 CSS | 📅 2026-10-19 - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
 * [Cypress Fiddle](https://github.com/cypress-io/cypress-fiddle) ⚠️ Archived
 * [Cypress Parallel Specs Locally](https://github.com/Shelex/cypress-parallel-specs-locally) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-05 - About
 * [Cypress Utils](https://github.com/trentrand/cypress-utils) ⭐ 25 | 🐛 10 | 🌐 JavaScript | 📅 2026-04-02 - CLI tool to easily parallelize and stress-test your Cypress tests
@@ -70,7 +70,7 @@ Official references of Cypress.
 
 ### Complementary QA Tools
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 910 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 911 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-03 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 
 ### Courses
 
@@ -113,8 +113,8 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 #### Visual Testing
 
 * [Cypress Image Snapshot](https://github.com/palmerhq/cypress-image-snapshot) ⭐ 887 | 🐛 122 | 🌐 JavaScript | 📅 2024-04-10
-* [Cypress Visual Regression](https://github.com/mjhea0/cypress-visual-regression) ⭐ 661 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-18
-* [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots) ⭐ 492 | 🐛 118 | 🌐 JavaScript | 📅 2026-09-16
+* [Cypress Visual Regression](https://github.com/mjhea0/cypress-visual-regression) ⭐ 661 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-19
+* [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots) ⭐ 493 | 🐛 118 | 🌐 JavaScript | 📅 2026-09-16
 * [Cypress Image Diff](https://github.com/uktrade/cypress-image-diff) ⭐ 271 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-23
 * [Micoo](https://github.com/Mikuu/Micoo/tree/master/clients/micoocypress) ⭐ 195 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-05
 * [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/agent-cypress) ⭐ 75 | 🐛 5 | 🌐 TypeScript | 📅 2023-10-31
@@ -131,7 +131,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 185 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-02
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 170 | 🐛 18 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 154 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-18
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 154 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-19
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 146 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
 * [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
@@ -219,4 +219,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
