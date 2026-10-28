@@ -42,8 +42,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,015 | 🐛 1,159 | 🌐 TypeScript | 📅 2026-10-27
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,015 | 🐛 1,159 | 🌐 TypeScript | 📅 2026-10-27
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,016 | 🐛 1,161 | 🌐 TypeScript | 📅 2026-10-28
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,016 | 🐛 1,161 | 🌐 TypeScript | 📅 2026-10-28
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -70,7 +70,7 @@ Official references of Cypress.
 
 ### Complementary QA Tools
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 899 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-24 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 901 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-28 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 
 ### Courses
 
@@ -101,9 +101,9 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress React unit test](https://github.com/bahmutov/cypress-react-unit-test) ⚠️ Archived - Test React components using Cypress Test Runner.
 * [Cypress Vue unit test](https://github.com/bahmutov/cypress-vue-unit-test) ⚠️ Archived - Test Vue.js components using Cypress Test Runner.
 * [Cypress Svelte unit test](https://github.com/bahmutov/cypress-svelte-unit-test) ⭐ 161 | 🐛 30 | 🌐 JavaScript | 📅 2026-06-04 - Test Svelte components using Cypress Test Runner.
-* [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angular-unit-test) ⭐ 160 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-26 - Test Angular component using Cypress Test Runner.
+* [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angular-unit-test) ⭐ 160 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-28 - Test Angular component using Cypress Test Runner.
 * [Cypress Hyperapp unit test](https://github.com/bahmutov/cypress-hyperapp-unit-test) ⭐ 25 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-16 - Test Hyperapp components and applications using Cypress Test Runner.
-* [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angularjs-unit-test) ⭐ 22 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-14 - Unit test Angularjs code using Cypress Test Runner.
+* [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angularjs-unit-test) ⭐ 22 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-28 - Unit test Angularjs code using Cypress Test Runner.
 * [Cypress Cycle Unit Test](https://github.com/bahmutov/cypress-cycle-unit-test) ⭐ 3 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-27 - Test Cycle.js components using Cypress Test Runner.
 
 #### Forms
@@ -131,9 +131,9 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 185 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-02
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 8 | 🌐 JavaScript | 📅 2025-01-27
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 170 | 🐛 18 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 154 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-26
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 154 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-28
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 146 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
-* [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 82 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
+* [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
 * [Cypress Health Check](https://github.com/bdimitrovski/cypress-healthcheck) ⭐ 29 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-02
 * [Cypress Msteams reporter](https://github.com/maritome/cypress-msteams-reporter) ⭐ 14 | 🐛 9 | 🌐 JavaScript | 📅 2023-04-27
@@ -142,7 +142,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Containers
 
-* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 25 | 🌐 Dockerfile | 📅 2026-10-23 - Docker images with Cypress dependencies and browsers.
+* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 25 | 🌐 Dockerfile | 📅 2026-10-28 - Docker images with Cypress dependencies and browsers.
 
 ### People to follow
 
@@ -215,8 +215,8 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 ### Examples
 
 * [Cypress recipes for common scenarios](https://github.com/cypress-io/cypress-example-recipes) ⭐ 3,475 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-29
-* [Cypress for Everything 🤩: testing SEO, Http Redirects, Logins, Sitemaps and more!](https://github.com/riccardogiorato/cypress-for-everything) ⭐ 80 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-14
+* [Cypress for Everything 🤩: testing SEO, Http Redirects, Logins, Sitemaps and more!](https://github.com/riccardogiorato/cypress-for-everything) ⭐ 79 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-14
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
