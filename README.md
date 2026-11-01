@@ -42,8 +42,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,019 | 🐛 1,149 | 🌐 TypeScript | 📅 2026-10-31
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,019 | 🐛 1,149 | 🌐 TypeScript | 📅 2026-10-31
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,019 | 🐛 1,151 | 🌐 TypeScript | 📅 2026-11-01
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,019 | 🐛 1,151 | 🌐 TypeScript | 📅 2026-11-01
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -70,7 +70,7 @@ Official references of Cypress.
 
 ### Complementary QA Tools
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 913 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-31 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 915 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-01 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 
 ### Courses
 
@@ -219,4 +219,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
