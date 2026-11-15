@@ -15,8 +15,8 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T21:30:56Z",
-            "open_issues": 1167,
+            "last_commit": "2026-11-15T21:00:20Z",
+            "open_issues": 1173,
             "owner": "cypress-io",
             "repo": "cypress",
             "stars": 51029,
@@ -50,8 +50,8 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T21:30:56Z",
-            "open_issues": 1167,
+            "last_commit": "2026-11-15T21:00:20Z",
+            "open_issues": 1173,
             "owner": "cypress-io",
             "repo": "cypress",
             "stars": 51029,
@@ -1384,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:38:25.596Z",
+    "last_updated": "2026-11-15T21:58:28.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",

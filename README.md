@@ -42,8 +42,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,029 | 🐛 1,167 | 🌐 TypeScript | 📅 2026-11-14
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,029 | 🐛 1,167 | 🌐 TypeScript | 📅 2026-11-14
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,029 | 🐛 1,173 | 🌐 TypeScript | 📅 2026-11-15
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,029 | 🐛 1,173 | 🌐 TypeScript | 📅 2026-11-15
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -219,4 +219,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
