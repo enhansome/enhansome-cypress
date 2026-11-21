@@ -15,25 +15,16 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T22:51:31Z",
-            "open_issues": 1128,
+            "last_commit": "2026-11-21T22:12:57Z",
+            "open_issues": 1135,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51035,
+            "stars": 51034,
             "topics": [
-              "angular-testing-library",
               "component-testing",
               "cypress",
-              "cypress-cloud",
-              "cypress-schematic",
               "end-to-end-testing",
-              "react-testing-library",
-              "svelte-testing-library",
-              "test-replay",
-              "testing-framework",
-              "testing-library",
-              "testing-tool",
-              "vue-testing-library"
+              "testing-framework"
             ]
           },
           "first_seen": "2026-08-29T01:05:14.919Z"
@@ -50,25 +41,16 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T22:51:31Z",
-            "open_issues": 1128,
+            "last_commit": "2026-11-21T22:12:57Z",
+            "open_issues": 1135,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51035,
+            "stars": 51034,
             "topics": [
-              "angular-testing-library",
               "component-testing",
               "cypress",
-              "cypress-cloud",
-              "cypress-schematic",
               "end-to-end-testing",
-              "react-testing-library",
-              "svelte-testing-library",
-              "test-replay",
-              "testing-framework",
-              "testing-library",
-              "testing-tool",
-              "vue-testing-library"
+              "testing-framework"
             ]
           },
           "first_seen": "2026-08-29T01:05:14.919Z"
@@ -648,7 +630,7 @@
                 "id": 118207433,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-29T18:15:47Z",
+                "last_commit": "2026-11-21T19:53:23Z",
                 "open_issues": 32,
                 "owner": "bahmutov",
                 "repo": "cypress-angular-unit-test",
@@ -727,7 +709,7 @@
                 "id": 121470002,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-16T21:44:19Z",
+                "last_commit": "2026-11-21T06:15:26Z",
                 "open_issues": 17,
                 "owner": "bahmutov",
                 "repo": "cypress-cycle-unit-test",
@@ -1384,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:15:42.868Z",
+    "last_updated": "2026-11-21T22:16:50.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",
