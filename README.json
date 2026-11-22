@@ -15,11 +15,11 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T22:12:57Z",
-            "open_issues": 1135,
+            "last_commit": "2026-11-22T22:30:41Z",
+            "open_issues": 881,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51034,
+            "stars": 51044,
             "topics": [
               "component-testing",
               "cypress",
@@ -41,11 +41,11 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T22:12:57Z",
-            "open_issues": 1135,
+            "last_commit": "2026-11-22T22:30:41Z",
+            "open_issues": 881,
             "owner": "cypress-io",
             "repo": "cypress",
-            "stars": 51034,
+            "stars": 51044,
             "topics": [
               "component-testing",
               "cypress",
@@ -634,7 +634,7 @@
                 "open_issues": 32,
                 "owner": "bahmutov",
                 "repo": "cypress-angular-unit-test",
-                "stars": 159,
+                "stars": 158,
                 "topics": [
                   "angular",
                   "cypress",
@@ -805,7 +805,7 @@
                 "open_issues": 6,
                 "owner": "cypress-visual-regression",
                 "repo": "cypress-visual-regression",
-                "stars": 661,
+                "stars": 660,
                 "topics": [
                   "cypress",
                   "cypress-plugin",
@@ -1366,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:16:50.847Z",
+    "last_updated": "2026-11-22T22:40:46.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",
