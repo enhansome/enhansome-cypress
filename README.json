@@ -15,8 +15,8 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T00:14:34Z",
-            "open_issues": 847,
+            "last_commit": "2026-11-27T00:43:51Z",
+            "open_issues": 854,
             "owner": "cypress-io",
             "repo": "cypress",
             "stars": 51042,
@@ -41,8 +41,8 @@
             "id": 31629751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T00:14:34Z",
-            "open_issues": 847,
+            "last_commit": "2026-11-27T00:43:51Z",
+            "open_issues": 854,
             "owner": "cypress-io",
             "repo": "cypress",
             "stars": 51042,
@@ -313,6 +313,41 @@
         },
         {
           "node_type": "item",
+          "title": "test-inventory",
+          "description": "Extract Cypress test titles, declared states and skip reasons from source without running the suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lists every Playwright, Vitest, Jest, Mocha, Jasmine, Cypress, WebdriverIO, node:test and Bun test from the source code, without running it: its state and why, tags, an id that survives a move, a hash of everything it runs, and the tests a change can affect.",
+            "homepage": "https://huldoser.github.io/test-inventory/",
+            "id": 1408016743,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-26T21:02:13Z",
+            "open_issues": 0,
+            "owner": "Huldoser",
+            "repo": "test-inventory",
+            "stars": 4,
+            "topics": [
+              "bun",
+              "cypress",
+              "jasmine",
+              "jest",
+              "mocha",
+              "node-test",
+              "playwright",
+              "static-analysis",
+              "test-metadata",
+              "testing",
+              "typescript",
+              "vitest",
+              "webdriverio"
+            ]
+          },
+          "first_seen": "2026-11-27T01:05:56.122Z"
+        },
+        {
+          "node_type": "item",
           "title": "skipper",
           "description": "Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.",
           "children": [],
@@ -494,6 +529,74 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:14.919Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Maily",
+              "description": "Self-hosted temporary email REST API gateway with automated OTP and verification link extraction for E2E auth flows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Async disposable temporary email aggregator with unified API, REST server, Python client, and web admin dashboard",
+                "homepage": "https://stormsia.github.io/maily/",
+                "id": 1370016342,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-26T23:28:36Z",
+                "open_issues": 1,
+                "owner": "stormsia",
+                "repo": "maily",
+                "stars": 3,
+                "topics": [
+                  "asyncio",
+                  "disposable-email",
+                  "email-api",
+                  "fastapi",
+                  "pypi",
+                  "python",
+                  "temp-mail",
+                  "tempmail",
+                  "temporary-email"
+                ]
+              },
+              "first_seen": "2026-11-27T01:05:56.122Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Cypress Mails.ai",
+              "description": "Commands that give each test its own email address and wait for the verification code or magic link from your app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Email inboxes for AI agents: send, receive and reply through api.mails.ai. SDKs, MCP server, examples.",
+                "homepage": "https://mails.ai",
+                "id": 1361403668,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-19T20:00:00Z",
+                "open_issues": 0,
+                "owner": "mailsai",
+                "repo": "mailsai",
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "cypress",
+                  "cypress-plugin",
+                  "e2e-testing",
+                  "email",
+                  "email-api",
+                  "email-testing",
+                  "email-verification",
+                  "magic-link",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "otp",
+                  "playwright",
+                  "test-automation"
+                ]
+              },
+              "first_seen": "2026-11-27T01:05:56.122Z"
             },
             {
               "node_type": "item",
@@ -756,6 +859,44 @@
           "description": null,
           "node_type": "group",
           "title": "Forms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cypress Device Emulate",
+              "description": "Real mobile device emulation for Cypress (viewport, touch, device pixel ratio, user agent, and live orientation rotation) via the Chrome DevTools Protocol, correctly cascading through CSS media queries like alone does not.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Mobile device emulation for Cypress — real viewport, touch, user agent, and orientation via Chrome DevTools Protocol.",
+                "homepage": "https://www.npmjs.com/package/cypress-device-emulate",
+                "id": 1307743255,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-23T19:15:05Z",
+                "open_issues": 5,
+                "owner": "sekharsdet",
+                "repo": "cypress-device-emulate",
+                "stars": 0,
+                "topics": [
+                  "chrome-devtools-protocol",
+                  "cypress",
+                  "cypress-plugin",
+                  "e2e-testing",
+                  "mobile-testing",
+                  "qa",
+                  "test-automation",
+                  "testing",
+                  "viewport"
+                ]
+              },
+              "first_seen": "2026-11-27T01:05:56.122Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile Testing"
         },
         {
           "children": [
@@ -1287,6 +1428,39 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:14.919Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Cypress Qualflare reporter",
+              "description": "Writes a standardized report directory for upload by the Qualflare CLI, making no network calls during the run.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Native Cypress reporter for Qualflare — suite/test results, per-attempt retry history, screenshots and command traces. Makes no network calls: writes a standardized report directory that qualflare-cli collect uploads, so any number of sharded jobs merge into one launch.",
+                "homepage": "https://qualflare.com/cypress-test-reporting/",
+                "id": 1403185419,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-14T15:23:23Z",
+                "open_issues": 1,
+                "owner": "Qualflare",
+                "repo": "qualflare-cypress",
+                "stars": 0,
+                "topics": [
+                  "ci",
+                  "cypress",
+                  "cypress-plugin",
+                  "e2e-testing",
+                  "flaky-tests",
+                  "qualflare",
+                  "test-management",
+                  "test-reporter",
+                  "test-reporting",
+                  "test-results",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-10-03T20:04:29.568Z"
             }
           ],
           "description": null,
@@ -1366,7 +1540,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:04:45.923Z",
+    "last_updated": "2026-11-27T01:05:56.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Cypress",
@@ -1374,8 +1548,8 @@
       "id": 206841637,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-12T16:31:29Z",
-      "open_issues": 12,
+      "last_commit": "2026-11-26T19:59:29Z",
+      "open_issues": 1,
       "owner": "brunopulis",
       "repo": "awesome-cypress",
       "stars": 343,
@@ -1392,7 +1566,7 @@
         "testing-tools"
       ]
     },
-    "original_repository_sha": "b0c6aa6dfd572b1d968fd1aa921fb5914b0515ab",
+    "original_repository_sha": "313db7be3c8cf189a639eac75a6ca48d801da002",
     "enhanced_repository": "enhansome/enhansome-cypress",
     "enhanced_repository_description": null,
     "title": "Awesome Cypress with stars"

@@ -27,6 +27,7 @@
       * [Authentication](#authentication)
       * [Component Testing](#component-testing)
       * [Forms](#forms)
+      * [Mobile Testing](#mobile-testing)
       * [Visual Testing](#visual-testing)
       * [Reporting](#reporting)
     * [Containers](#containers)
@@ -42,8 +43,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,042 | 🐛 847 | 🌐 TypeScript | 📅 2026-11-26
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,042 | 🐛 847 | 🌐 TypeScript | 📅 2026-11-26
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,042 | 🐛 854 | 🌐 TypeScript | 📅 2026-11-27
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,042 | 🐛 854 | 🌐 TypeScript | 📅 2026-11-27
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -61,21 +62,25 @@ Official references of Cypress.
 * [Cypress Parallel Specs Locally](https://github.com/Shelex/cypress-parallel-specs-locally) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-05 - About
 * [Cypress Utils](https://github.com/trentrand/cypress-utils) ⭐ 25 | 🐛 10 | 🌐 JavaScript | 📅 2026-04-02 - CLI tool to easily parallelize and stress-test your Cypress tests
 * [Specut](https://github.com/henryruhs/specut) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2025-02-07 - Cut massive test suites into equal chunks.
+* [test-inventory](https://github.com/Huldoser/test-inventory) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-26 - Extract Cypress test titles, declared states and skip reasons from source without running the suite.
 * [skipper](https://github.com/get-skipper/skipper) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09 - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 * [Cypress Local Https](https://github.com/bahmutov/cypress-local-https) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-20
 * [Qualflare](https://github.com/Qualflare/qualflare-cypress) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 - Uploads results for history-based flaky-test detection, failure clustering, and release-risk scoring.
 * [DeploySentinel](https://deploysentinel.com/) - `cypress open` for your CI. Eliminate flaky Cypress tests with DOM, network and console log captures from CI - [Mike Shi](https://github.com/MikeShi42)
+* [Mockatoo](https://mockatoo.globalunderdog.com) - Hosted mock OAuth provider that copies the sign-in pages of Google, GitHub, Microsoft and five others, so Cypress tests can log in without real accounts, CAPTCHAs or app registration.
 * [Moon](https://aerokube.com/moon/) - Platform for remote parallel Cypress tests execution working in Kubernetes cluster.
 * [Testward](https://testward.app) - GitHub App that flags which Cypress specs a pull request will break — at review time, even when the specs live in a separate repo.
 
 ### Complementary QA Tools
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 822 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-24 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 825 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-24 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Pie](https://pie.inc/) - Agentic testing platform for web, iOS and Android apps. Tests your pull requests like a real user, reports the bugs a user would actually hit, and opens a fix PR for your team to review.
 
 ### Courses
 
 Online courses from that teach end-to-end testing with Cypress over multiple videos. Note: Some of the courses require payment from their website.
 
+* [Software testing, test automation, and a11y courses at TAT School](https://talkingabouttesting.school)
 * [Curso de End to End Testing con Cypress](https://platzi.com/cursos/testing-cypress/)
 * [Cypress Modern Automation Testing from Scratch + Frameworks](https://www.udemy.com/course/cypress-tutorial/)
 * [Introduction to Cypress](https://testautomationu.applitools.com/cypress-tutorial/)
@@ -94,6 +99,8 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Keycloak Commands](https://github.com/Fredx87/cypress-keycloak-commands) ⭐ 68 | 🐛 40 | 🌐 TypeScript | 📅 2024-04-26 - Cypress commands for authenticate users with Keycloak Identity Provider.
 * [Cypress NTLM Auth](https://github.com/bjowes/cypress-ntlm-auth) ⭐ 54 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-25 - NTLM authentication support for Cypress.
 * [Cypress OTP](https://github.com/NoriSte/cypress-otp) ⭐ 48 | 🐛 12 | 🌐 JavaScript | 📅 2023-06-07 - Valid OTP token generation for Cypress.
+* [Maily](https://github.com/stormsia/maily) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-26 - Self-hosted temporary email REST API gateway with automated OTP and verification link extraction for E2E auth flows.
+* [Cypress Mails.ai](https://github.com/mailsai/mailsai/tree/main/packages/cypress) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-19 - Commands that give each test its own email address and wait for the verification code or magic link from your app.
 * [Cypress receivemail](https://github.com/flovoice53-tech/cypress-receivemail) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-01 - Commands to read verification emails from a free disposable inbox (receivemail.dev), no signup or API key.
 
 #### Component Testing
@@ -109,6 +116,10 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 #### Forms
 
 * [Cypress Forms Commands](https://github.com/SamuelTrottier/cypress-forms-commands) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2021-07-11 - Easier form filling and validation
+
+#### Mobile Testing
+
+* [Cypress Device Emulate](https://github.com/sekharsdet/cypress-device-emulate) ⭐ 0 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-23 - Real mobile device emulation for Cypress (viewport, touch, device pixel ratio, user agent, and live orientation rotation) via the Chrome DevTools Protocol, correctly cascading through CSS media queries like `cy.viewport()` alone does not.
 
 #### Visual Testing
 
@@ -139,10 +150,11 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Msteams reporter](https://github.com/maritome/cypress-msteams-reporter) ⭐ 14 | 🐛 9 | 🌐 JavaScript | 📅 2023-04-27
 * [Cypress teamcity reporter](https://github.com/prma85/cypress-teamcity-reporter) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-04
 * [Autoset status cypress testrail reporter](https://github.com/dkuznetsov21/autoset-status-cypress-testrail-reporter) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2021-09-27
+* [Cypress Qualflare reporter](https://github.com/Qualflare/qualflare-cypress) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 - Writes a standardized report directory for upload by the Qualflare CLI, making no network calls during the run.
 
 ### Containers
 
-* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 17 | 🌐 Dockerfile | 📅 2026-11-26 - Docker images with Cypress dependencies and browsers.
+* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 18 | 🌐 Dockerfile | 📅 2026-11-26 - Docker images with Cypress dependencies and browsers.
 
 ### People to follow
 
@@ -219,4 +231,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
