@@ -43,8 +43,8 @@
 
 Official references of Cypress.
 
-* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,042 | 🐛 854 | 🌐 TypeScript | 📅 2026-11-27
-* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,042 | 🐛 854 | 🌐 TypeScript | 📅 2026-11-27
+* [GitHub Repo](https://github.com/cypress-io/cypress) ⭐ 51,042 | 🐛 852 | 🌐 TypeScript | 📅 2026-11-27
+* [Release Notes](https://github.com/cypress-io/cypress/releases) ⭐ 51,042 | 🐛 852 | 🌐 TypeScript | 📅 2026-11-27
 * [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
 * [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
 * [Roadmap](https://docs.cypress.io/guides/references/roadmap.html#Upcoming-features)
@@ -57,7 +57,7 @@ Official references of Cypress.
 * [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) ⭐ 283 | 🐛 1 | 📅 2023-04-21 - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
 * [Cypress Learning Checklist](https://github.com/samlucax/cypress-learning-checklist) ⭐ 182 | 🐛 0 | 📅 2022-01-11 - Accelerate your Cypress learning by prioritizing what to study first - [Samuel Lucas](https://github.com/samlucax)
 * [Cypress Commands](https://github.com/Lakitna/cypress-commands) ⭐ 157 | 🐛 5 | 🌐 JavaScript | 📅 2023-02-08 - A collection of Cypress commands to extend and complement the defaults;
-* [Cypress Dark](https://github.com/bahmutov/cypress-dark) ⭐ 151 | 🐛 26 | 🌐 CSS | 📅 2026-11-25 - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
+* [Cypress Dark](https://github.com/bahmutov/cypress-dark) ⭐ 151 | 🐛 26 | 🌐 CSS | 📅 2026-11-27 - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
 * [Cypress Fiddle](https://github.com/cypress-io/cypress-fiddle) ⚠️ Archived
 * [Cypress Parallel Specs Locally](https://github.com/Shelex/cypress-parallel-specs-locally) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-05 - About
 * [Cypress Utils](https://github.com/trentrand/cypress-utils) ⭐ 25 | 🐛 10 | 🌐 JavaScript | 📅 2026-04-02 - CLI tool to easily parallelize and stress-test your Cypress tests
@@ -73,7 +73,7 @@ Official references of Cypress.
 
 ### Complementary QA Tools
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 825 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-24 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 826 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-24 - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 * [Pie](https://pie.inc/) - Agentic testing platform for web, iOS and Android apps. Tests your pull requests like a real user, reports the bugs a user would actually hit, and opens a fix PR for your team to review.
 
 ### Courses
@@ -99,7 +99,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Keycloak Commands](https://github.com/Fredx87/cypress-keycloak-commands) ⭐ 68 | 🐛 40 | 🌐 TypeScript | 📅 2024-04-26 - Cypress commands for authenticate users with Keycloak Identity Provider.
 * [Cypress NTLM Auth](https://github.com/bjowes/cypress-ntlm-auth) ⭐ 54 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-25 - NTLM authentication support for Cypress.
 * [Cypress OTP](https://github.com/NoriSte/cypress-otp) ⭐ 48 | 🐛 12 | 🌐 JavaScript | 📅 2023-06-07 - Valid OTP token generation for Cypress.
-* [Maily](https://github.com/stormsia/maily) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-26 - Self-hosted temporary email REST API gateway with automated OTP and verification link extraction for E2E auth flows.
+* [Maily](https://github.com/stormsia/maily) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-27 - Self-hosted temporary email REST API gateway with automated OTP and verification link extraction for E2E auth flows.
 * [Cypress Mails.ai](https://github.com/mailsai/mailsai/tree/main/packages/cypress) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-19 - Commands that give each test its own email address and wait for the verification code or magic link from your app.
 * [Cypress receivemail](https://github.com/flovoice53-tech/cypress-receivemail) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-01 - Commands to read verification emails from a free disposable inbox (receivemail.dev), no signup or API key.
 
@@ -142,7 +142,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 * [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter) ⭐ 185 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-02
 * [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter) ⭐ 171 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-14
 * [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin) ⭐ 170 | 🐛 19 | 🌐 JavaScript | 📅 2025-05-17
-* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 154 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-23
+* [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress) ⭐ 154 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-27
 * [Cypress log to output](https://github.com/flotwig/cypress-log-to-output) ⭐ 146 | 🐛 11 | 🌐 JavaScript | 📅 2023-05-08
 * [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge) ⭐ 83 | 🐛 5 | 🌐 JavaScript | 📅 2026-02-06
 * [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter) ⭐ 67 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-05
@@ -154,7 +154,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Containers
 
-* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 18 | 🌐 Dockerfile | 📅 2026-11-26 - Docker images with Cypress dependencies and browsers.
+* [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) ⭐ 1,059 | 🐛 17 | 🌐 Dockerfile | 📅 2026-11-27 - Docker images with Cypress dependencies and browsers.
 
 ### People to follow
 
@@ -231,4 +231,4 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
